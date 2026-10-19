@@ -2,9 +2,9 @@
 
 A small, self-contained example of **KPI-based circular product evaluation**: it links material, product, usage and end-of-life data to sustainability and circularity indicators, simulates reuse scenarios, and ranks design options with transparent, explainable logic.
 
-It uses an exhibition booth as the example product, inspired by the public description of the [cirKPI project](https://circularglowup.de/en/collaborative-projects/cirkpi) (a *Circular Decision Intelligence Toolkit* combining a CE KPI framework, an AI-based design assistant, and a simulation environment).
+It uses an exhibition booth as the example product.
 
-> **Important:** This is an independent personal demo. It is **not** part of, affiliated with, or derived from the cirKPI project or its partners. **All data in `data/` are illustrative placeholders**, not measured or database values. Do not cite the numbers. For real studies, replace them with ecoinvent / EPD / primary data.
+> **Important:** This is an independent personal demo. It is **not** part of, affiliated with,  **All data in `data/` are illustrative placeholders**, not measured or database values. Do not cite the numbers. For real studies, replace them with ecoinvent / EPD / primary data.
 
 ## What it shows
 
